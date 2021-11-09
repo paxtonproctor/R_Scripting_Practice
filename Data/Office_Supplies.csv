@@ -1,0 +1,21 @@
+OrderDate,Region,Rep,Item,Units,Unit Price
+4-Jul-14,East,Richard,Pen Set,62,4.99
+12-Jul-14,East,Nick,Binder,29,1.99
+24-Aug-14,West,James,Desk,3,275
+1-Sep-14,Central,Smith,Desk,2,125
+10-Sep-14,Central,Bill,Pencil,7,1.29
+27-Sep-14,West,James,Pen,76,1.99
+5-Oct-14,Central,Morgan,Binder,28,8.99
+22-Oct-14,East,Richard,Pen,64,8.99
+25-Nov-14,Central,Matthew,Pen Set,96,4.99
+4-Dec-14,Central,Alex,Binder,94,19.99
+29-Dec-14,East,Susan,Pen Set,74,15.99
+6-Jan-15,East,Richard,Pencil,95,1.99
+23-Jan-15,Central,Matthew,Binder,50,19.99
+9-Feb-15,Central,Alex,Pencil,36,4.99
+15-Mar-15,West,James,Pencil,56,2.99
+27-Apr-15,East,Nick,Pen,96,4.99
+5-May-15,Central,Alex,Pencil,90,4.99
+31-May-15,Central,Bill,Binder,80,8.99
+8-Jun-15,East,Richard,Binder,60,8.99
+17-Jun-15,Central,Matthew,Desk,5,125
